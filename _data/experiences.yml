@@ -1,0 +1,21 @@
+title: Experience
+experiences:
+  - role      : Software Engineer Lead
+    time      : June 2018 - Present
+    company   : Elsevier, London
+    details   : ""
+
+  - role      : Senior Software Engineer
+    time      : Feb 2017 - May 2018
+    company   : Elsevier, London
+    details   : ""
+
+  - role      : Java Developer
+    time      : Jun 2014 - Feb 2017
+    company   : Constant Commerce, London
+    details   : "
+        * Build advanced search features using Apache Solr.\n
+        * Working in back end for various greenfield projects building REST services.\n
+        * Enhance existing management system with new features.\n\n
+        Technologies used include: Java, Spring MVC, Spring Data, JPA.
+      "

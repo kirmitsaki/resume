@@ -1,0 +1,13 @@
+title     : Skills &amp; Proficiency
+skills:
+  - name  : Java
+    level : 95%
+
+  - name  : SQL
+    level : 60%
+
+  - name  : Python
+    level : 50%
+
+  - name  : Bash
+    level : 30%
