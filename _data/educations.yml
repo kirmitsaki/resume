@@ -5,10 +5,15 @@
 
 - degree      : BSc in Computer Science
   university  : Aristotle University of Thessaloniki
-  time        : 2006 - 2012
+  time        : 2007 - 2013
   details     : "BS degree focused on design, with an emphasis on design and evaluation of user-centered software, human-computer interaction & instructional design"
   # details     : "Grade 8.51/10"
   # details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   # elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   # magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   # pellentesque eu, pretium quis, sem."
+
+- degree      : Architectural & Still Life Pencil drawing
+  university  : Art Academy "To Ergasthri"
+  time        : 2005 - 2007
+  # details     : "Studied the principles of architectural and still-life pencil drawing. There I got the opportunity to study visual elements, make sense of their structure and experiment with more thorough methods of expressing concepts in the paper"
