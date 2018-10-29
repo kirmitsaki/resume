@@ -6,7 +6,7 @@ baseurl: '/resume' #change it according to your repository name
 theme_skin: dark # blue turquoise green berry orange ceramic
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
-education_in_main: false
+education_in_main: true
 
 # Tracker
 analytics: 

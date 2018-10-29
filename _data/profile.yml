@@ -6,14 +6,15 @@ avatar    : avatar.png #place a 100x100 picture inside /assets/images/ folder an
 
 summary:
   title   : Career Profile
-  text    : "I have received my BSc and MSc in Informatics from the [Aristotle University of Thessaloniki](http://www.csd.auth.gr/en), Greece and currently I am working as a software engineer in [Mendeley](https://www.mendeley.com) (part of [Elsevier](https://www.elsevier.com)), London.\n\n
-          Previously I was a Java developer in [Constant Commerce](http://www.constant.co), London\n\n
-          For more information visit my [LinkedIn profile](https://uk.linkedin.com/in/zkarampa)."
+  # text    : "I have received my BSc and MSc in Informatics from the [Aristotle University of Thessaloniki](http://www.csd.auth.gr/en), Greece and currently I am working as a software engineer in [Mendeley](https://www.mendeley.com) (part of [Elsevier](https://www.elsevier.com)), London.\n\n
+  #         Previously I was a Java developer in [Constant Commerce](http://www.constant.co), London\n\n
+  #         For more information visit my [LinkedIn profile](https://uk.linkedin.com/in/zkarampa)."
+  text    : "Experienced User Experience Designer with a demonstrated history of working in the information technology and services industry. Skilled in UX/UI Design, Human Computer Interaction and Web Design. Strong arts and design professional with a Master of Science (M.Sc.) focused in Management from University of Liverpool.\n\n
+          For more information visit my [LinkedIn profile](https://uk.linkedin.com/in/chrysakirmitsaki)."
 
 #sidebar links
 email     :
 phone     :
-website   : zkarampa.github.io #do not add http://
-linkedin  : zkarampa
-github    : zkarampa
-twitter   : zkarampa
+website   : chrysaki.github.io #do not add http://
+linkedin  : chrysakirmitsaki
+dribbble  : chrysaki
