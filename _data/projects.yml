@@ -1,20 +1,20 @@
-intro        : "For the last year I’m am part of the UX/UI team in Elemental Concept, where I’m leading the design process for my scrum team and help across different campaigns."
-title        : Projects
+# intro        : "For the last year I am part of the UX/UI team in Elemental Concept, where I’m leading the design process for my scrum team and help across different campaigns."
+title        : Projects | Elemental Concept
 projects:
   - title    : CorResilience
-    link     : "#"
+    link     : "http://corresilience.life/"
     tagline  : "A dynamic new personal resilience application, enabling a company’s workforce to achieve profound & sustainable changes in their lifestyle habits, while actively reducing long term risk of disease."
 
   - title    : Aladdin
-    link     : "#"
+    link     : "http://aladdinid.com/"
     tagline  : "With the application the Users can access their full health records, organise medical appointments and medication. They can also track and engage with their health and acquire health and lifestyle products"
 
   - title    : Source Central
-    link     : "#"
+    link     : "https://www.sourcecentral.co/"
     tagline  : "Designed exclusively for the world’s largest and most sophisticated investors and asset managers, Source Central provides a secure two-sided network based on interactive real asset fund data."
 
   - title    : Gift & Go
-    link     : "#"
+    link     : "https://www.giftandgo.com/"
     tagline  : "A new gifting technology platform, that enables businesses to create powerful loyalty stores and promotional sites whilst utilising the vast catalogue, logistical superiority and global footprint of Amazon Business"
 
   # - title    : Delta
