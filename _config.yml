@@ -9,7 +9,7 @@ theme_skin: dark # blue turquoise green berry orange ceramic
 education_in_main: false
 
 # Tracker
-analytics: UA-57511235-1
+analytics: 
 
 # Sass/SCSS
 sass:
