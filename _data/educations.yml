@@ -1,12 +1,12 @@
 - degree      : MSc in Management
   university  : University of Liverpool
   time        : 2015 - 2018
-  details     : "A MIM course portfolio that covered a broad range of business topics including Strategic Operations, Continuous Improvement, Project Management, Customer-centricity & cultivating Customer Relationships, HR Management, and Innovation strategies."
+  details     : "A MIM course portfolio that covered a broad range of business topics including strategic planning, continuous improvement, project management, customer-centricity & cultivating customer relationships."
 
-- degree      : BSc in Computer Science
+- degree      : BSc in Informatics
   university  : Aristotle University of Thessaloniki
   time        : 2007 - 2013
-  details     : "BS degree focused on design, with an emphasis on design and evaluation of user-centered software, human-computer interaction & instructional design"
+  details     : "BS degree focused on design, with an emphasis on design and evaluation of user-centered software, human-computer interaction & instructional design."
   # details     : "Grade 8.51/10"
   # details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   # elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
@@ -16,4 +16,4 @@
 - degree      : Architectural & Still Life Pencil drawing
   university  : Art Academy "To Ergasthri"
   time        : 2005 - 2007
-  # details     : "Studied the principles of architectural and still-life pencil drawing. There I got the opportunity to study visual elements, make sense of their structure and experiment with more thorough methods of expressing concepts in the paper"
+  details     : "Studied the principles of architectural and still-life pencil drawing and got the opportunity to examine visual elements, make sense of their structure and experiment with more thorough methods of expressing concepts in the paper"

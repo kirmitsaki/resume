@@ -1,13 +1,13 @@
 title     : Skills &amp; Proficiency
 skills:
-  - name  : Java
+  - name  : UX/UI Design
     level : 95%
 
-  - name  : SQL
-    level : 60%
+  - name  : Human-Computer Interaction
+    level : 90%
 
-  - name  : Python
-    level : 50%
+  - name  : Web Design
+    level : 85%
 
-  - name  : Bash
-    level : 30%
+  - name  : Branding
+    level : 65%
