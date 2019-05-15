@@ -24,5 +24,5 @@ compress_html: # - http://jch.penibelst.de/
     envs: development
 
 ########################
-remote_theme: zkarampa/jt-cv
+remote_theme: zkarampa/jt-cv@v1.0
 #theme: jt-cv
