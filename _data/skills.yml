@@ -1,13 +1,13 @@
 title     : Skills &amp; Proficiency
 skills:
   - name  : UX Design
-    details   : "Interaction design, Information architecture, Wireframes & prototypes, User flows, Content strategy"
+    level : 95%
 
   - name  : UI Design
-    details   : "Atomic Design Systems, Typography & color, Visual asset production"
+    level : 95%
 
   - name  : UX Research
-    details   : "Personas, Competitive analysis, User interviews, Feature validation, Storyboarding, Product discovery"
+    level : 80%
 
   - name  : Other
-    details   : "Branding, Print design, HTML, SCSS, Responsive Web Design"
+    level : 65%
