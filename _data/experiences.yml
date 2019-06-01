@@ -9,14 +9,26 @@ experiences:
         * Ensuring that the product meets user needs, are aligned with wider products and business goals, and are in line with the FE and BE technologies;\n
         * Mentoring and coaching other designers as needed;\n
         * Other: Scamping, creating experience maps, wireframing, prototyping, running workshops, sharing user insights with stakeholders;\n
-        * Tools: Sketch, Abstract, InVision, Axure;
-      "
+        * Tools: Sketch, Abstract, InVision, Axure;"
         
   - role      : UX/UI Designer
     time      : July 2017 - December 2018
     company   : Elemental Concept, London
-    details   : "* As part of the UX/UI team in Elemental Concept, I was leading the design process for the scrum team responsible for the strategy, design, and delivery of a dynamic new personal resilience application and helping across different campaigns and product discoveries. \n
-    * Key Responsibilities: UX Design, UI Design, Consultancy, Wireframing, Market & Competitor analysis, Web Design"
+    details   : "As part of the UX/UI team in Elemental Concept, I was leading the design process for the scrum team responsible for the strategy, design, and delivery of a dynamic new personal resilience application but also helping across different campaigns and product discoveries for various clients. \n
+User experience (UX)\n
+        * Participating in Product Discoveries to define the MVP and product features;\n
+        * Developing user flows, journey maps, personas, scenarios, storyboards, competitor analysis, wireframes and defining the information architecture in order to enhance functionality and identify and troubleshoot UX/UI problems;\n
+        * Educating clients on the benefits of user-centricity;\n
+        * Testing and generating reports to improve the UX of our projects using mostly Google Analytics & SurveyMonkey.\n
+User interface (UI)\n
+        * Designing low & high fidelity mockups using Sketch & Illustrator, to examine with the team and stakeholders the potential of each idea;\n
+        * Leading all visual design stages from concept to live product for the scrum teams, with special emphasis on the overall feeling of the experience;\n
+        * Collaborating with developers, product owners, QA and marketing to create user interfaces that reflect the personality of the client’s brand.\n
+Brand identity & Web Design\n
+        * Designing logos and defining brand colors & typography;\n
+        * Creating illustrations, letterheads, business cards and other print assets;\n
+        * Creating templates for presentations;\n
+        * Collaborating with the dev team to create websites in HTML, SCSS and also in Wordpress."
 
   - role      : Web Designer
     time      : November 2015 - June 2017
@@ -26,8 +38,7 @@ experiences:
         * Designing for both web and the print, delivering a service to the User that is aligned with the Brand;\n
         * Working closely with the Marketing Team to launch digital and print campaigns;\n
         * Adjusting the design as needed to increase the conversion rate and maintain customer retention;\n
-        * Creating UI (mobile-first) designs for all screen-sizes. 
-      "
+        * Creating UI (mobile-first) designs for all screen-sizes."
 
   - role      : UX Engineer
     time      : February 2015 - September 2015
@@ -39,8 +50,7 @@ experiences:
         * Sketching and wireframing at different fidelity levels;\n
         * Using the knowledge gained from the research stage to create user centered designs;\n
         * Making estimations on the delivery time of the features;\n
-        * Decide which technologies would be used and assist the tech team with the final development, testing and maintenance of the features;
-      "
+        * Decide which technologies would be used and assist the tech team with the final development, testing and maintenance of the features."
         
   - role      : Junior FE Developer
     time      : January 2014 - January 2015
@@ -50,6 +60,7 @@ experiences:
         * Working side by side with the graphic designer in order to turn static Photoshop designs into fully functional web pages;\n
         * Styling the prototypes that back­end developers produce to match the mockup designs;\n
         * Providing accurate timing estimates on work;\n
-        * Discussing technical solutions with tech team;\n
-      "
+        * Discussing technical solutions with tech team;"
+
+
 
